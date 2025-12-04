@@ -197,10 +197,3 @@ Candidates are scored based on pattern matching:
 | numpy | >=1.24.0,<2.0.0 | Array operations |
 | Pillow | 11.0.0 | Image handling |
 
-## License
-
-This project is for educational purposes only.
-
-## Author
-
-Created as a demonstration of CAPTCHA solving techniques using OCR and pattern matching.
